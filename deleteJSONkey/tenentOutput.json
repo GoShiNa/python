@@ -1,0 +1,16 @@
+{
+    "reuest": {
+        "zip": "94587", 
+        "country": "USA", 
+        "state": "California", 
+        "details": [
+            {
+                "name": "tenant1"
+            }, 
+            {
+                "name": "tenenr2"
+            }
+        ], 
+        "owner": "Customer1"
+    }
+}
